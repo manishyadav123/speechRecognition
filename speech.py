@@ -1,3 +1,4 @@
+#speech recognition program in python (version 3)
 import speech_recognition as speechr
 recog=speechr.Recognizer()
 with speechr.Microphone() as source:
